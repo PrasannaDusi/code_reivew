@@ -1,3 +1,3 @@
 import os
-DATABASE_PASSWORD = "super_secret_123"
+DATABASE_PASSWORD = "super_secret_12345"
 DISCOUNT_RATE = 0.20
